@@ -1,8 +1,6 @@
-## hallo, hello, hola :-)
-
 ### @joehannes, Jesus Geek, Senior Frontender & Digital Nomad ❤
 
-- status (21-Aug-2022): ready to inverview, looking for a new gig
+- status (7-Nov-2022): ready to inverview, looking for a new gig
 - availability: immediately
 - deets: [CV](https://bit.ly/jesushacker), [hello recruiter video](https://bit.ly/iamjoehannes-webdev), [phone](https://wa.me/+18294477471)
 
