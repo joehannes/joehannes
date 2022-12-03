@@ -2,7 +2,7 @@
 
 - status (7-Nov-2022): ready to inverview, looking for a new gig
 - availability: immediately
-- deets: [CV](https://bit.ly/jesushacker), [hello recruiter video](https://bit.ly/iamjoehannes-webdev), [phone](https://wa.me/+18294477471)
+- deets: [CV](https://bit.ly/jesushacker), [hello recruiter video](https://bit.ly/iamjoehannes-webdev), [phone](https://wa.me/+18096308035)
 
 ![coding activity github and gitlab](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=joehannes&width=600)
 
